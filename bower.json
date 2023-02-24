@@ -6,7 +6,7 @@
     "rileyjshaw <i@rileyjshaw.com>"
   ],
   "description": "A JavaScript library for simple biological simulations and cellular automata.",
-  "main": "dist/terra.min.js",
+  "main": "dist/terra.js",
   "moduleType": [
     "node"
   ],
